@@ -1,0 +1,78 @@
+body {
+font-family: 'Segoe UI', sans-serif;
+background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+color: #ffffff;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-color: #ff4500;
+padding: 25px;
+text-align: center;
+color: white;
+box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+nav {
+text-align: center;
+margin: 20px 0;
+}
+
+nav a {
+color: #00d9ff;
+text-decoration: none;
+font-weight: bold;
+margin: 0 15px;
+}
+
+.section {
+background: #1e2a38;
+padding: 20px;
+border-radius: 10px;
+margin: 20px auto;
+max-width: 900px;
+border-left: 6px solid #ff4500;
+box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+h2, h3 {
+color: #ffd700;
+}
+
+.highlight {
+color: #00ff99;
+font-weight: bold;
+}
+
+footer {
+text-align: center;
+background: #121212;
+padding: 20px;
+color: #ccc;
+font-size: 14px;
+margin-top: 40px;
+}
+
+.subscribe {
+background-color: #ff4500;
+color: white;
+border: none;
+padding: 12px 25px;
+font-size: 16px;
+cursor: pointer;
+display: block;
+margin: 30px auto 10px auto;
+border-radius: 5px;
+}
+
+.ads {
+text-align: center;
+margin-top: 30px;
+}
+
+.ads img {
+width: 300px;
+border-radius: 10px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
